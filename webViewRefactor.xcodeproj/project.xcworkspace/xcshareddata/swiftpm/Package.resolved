@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PromiseKit",
+        "repositoryURL": "https://github.com/mxcl/PromiseKit.git",
+        "state": {
+          "branch": null,
+          "revision": "f14f16cc2602afec1030e4f492100d6d43dca544",
+          "version": "6.13.1"
+        }
+      },
+      {
+        "package": "Signals",
+        "repositoryURL": "https://github.com/artman/Signals.git",
+        "state": {
+          "branch": null,
+          "revision": "e792eb51a64f85d043d17f09f6323b803b9f73b8",
+          "version": "6.1.0"
+        }
+      },
+      {
+        "package": "SwiftUIFlux",
+        "repositoryURL": "https://github.com/Dimillian/SwiftUIFlux.git",
+        "state": {
+          "branch": null,
+          "revision": "a48dd509702797028fa103844008239dded85063",
+          "version": "0.5.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
